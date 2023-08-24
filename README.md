@@ -15,7 +15,7 @@ gan_model.ipynb: A Jupyter notebook containing the complete code for the GAN mod
 
 gan_model.h5: The exported GAN model in h5 format.
 
-generate_image.py: A Python script that imports the GAN model and generates a face image from the model.
+image-generate.py: A Python script that imports the GAN model and generates a face image from the model.
 
 README.md: This file explaining the project, its purpose, and its contents.
 
