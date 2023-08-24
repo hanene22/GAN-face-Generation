@@ -19,7 +19,7 @@ image-generate.py: A Python script that imports the GAN model and generates a fa
 
 README.md: This file explaining the project, its purpose, and its contents.
 
-Clone this repository to your computer:  git clone https://github.com/hanene22/GAN-face-Generation.git
+Clone this repository to your computer:  git clone https://github.com/hanene22/GAN-face-Generation.git 
 
 Open the gan_model.ipynb Jupyter notebook to view the GAN model code and the training process.
 
