@@ -8,7 +8,6 @@ In this project, we utilize TensorFlow and Python to build a GAN model capable o
 
 The dataset can be downloaded from Kaggle via this link: https://www.kaggle.com/jessicali9530/celeba-dataset
 
-
 # Repository Contents
 The repository for this project contains the following components:
 
