@@ -19,7 +19,7 @@ image-generate.py: A Python script that imports the GAN model and generates a fa
 
 README.md: This file explaining the project, its purpose, and its contents.
 
-Clone this repository to your computer:  git clone https://github.com/YourName/CelebA-GAN-Project.git
+Clone this repository to your computer:  git clone https://github.com/hanene22/GAN-face-Generation.git
 
 Open the gan_model.ipynb Jupyter notebook to view the GAN model code and the training process.
 
@@ -28,7 +28,7 @@ Run the Jupyter notebook to train the GAN model and generate celebrity face imag
 Use the generate_image.py script to generate celebrity face images from the exported GAN model.
 
 #  Author
-This project was created by Hanene Ben Abdelali (https://github.com/YourName).
+This project was created by Hanene Ben Abdelali (https://github.com/hanene22).
 
 Feel free to explore the code, contribute, and use the GAN model to generate your own celebrity face images!
 
