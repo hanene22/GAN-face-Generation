@@ -13,7 +13,7 @@ The repository for this project contains the following components:
 
 gan_model.ipynb: A Jupyter notebook containing the complete code for the GAN model, training, and image generation.
 
-gan_model.h5: The exported GAN model in h5 format.
+gan.h5: The exported GAN model in h5 format.
 
 image-generate.py: A Python script that imports the GAN model and generates a face image from the model.
 
